@@ -1,0 +1,22 @@
+验证码登录: https://yapi.hulai.com/api/open/run_auto_test?id=148&token=46678c1b354e4d7c6884ca5a0da1e3270d48c0377c3081544107478c72dad4c5&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+退出登录: https://yapi.hulai.com/api/open/run_auto_test?id=160&token=46678c1b354e4d7c6884ca5a0da1e3270d48c0377c3081544107478c72dad4c5&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+发送验证码: https://yapi.hulai.com/api/open/run_auto_test?id=157&token=489be60b2b929dbaa649b46a8a276e9ac2f5b0ada6311799bacce10a757ccb4f&env_73=测试环境&mode=html&email=false&download=false
+编辑资料: https://yapi.hulai.com/api/open/run_auto_test?id=163&token=46678c1b354e4d7c6884ca5a0da1e3270d48c0377c3081544107478c72dad4c5&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+绑定手机号: https://yapi.hulai.com/api/open/run_auto_test?id=166&token=46678c1b354e4d7c6884ca5a0da1e3270d48c0377c3081544107478c72dad4c5&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+三方登录，绑定，解绑: https://yapi.hulai.com/api/open/run_auto_test?id=169&token=46678c1b354e4d7c6884ca5a0da1e3270d48c0377c3081544107478c72dad4c5&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+一级分类列表和一级，二级分类列表: https://yapi.hulai.com/api/open/run_auto_test?id=172&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+藏品详情: https://yapi.hulai.com/api/open/run_auto_test?id=175&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+删除藏品: https://yapi.hulai.com/api/open/run_auto_test?id=178&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+点赞藏品: https://yapi.hulai.com/api/open/run_auto_test?id=181&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+收藏藏品: https://yapi.hulai.com/api/open/run_auto_test?id=184&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+发布藏品评论: https://yapi.hulai.com/api/open/run_auto_test?id=187&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+用户点赞藏品评论: https://yapi.hulai.com/api/open/run_auto_test?id=190&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+用户回复藏品评论: https://yapi.hulai.com/api/open/run_auto_test?id=193&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+我的点赞和收藏: https://yapi.hulai.com/api/open/run_auto_test?id=199&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+藏品档案: https://yapi.hulai.com/api/open/run_auto_test?id=202&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+举报: https://yapi.hulai.com/api/open/run_auto_test?id=205&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_73=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+删除评论: https://yapi.hulai.com/api/open/run_auto_test?id=208&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+获取藏品评论列表、获取藏品评论回复列表: https://yapi.hulai.com/api/open/run_auto_test?id=211&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+藏品推荐列表: https://yapi.hulai.com/api/open/run_auto_test?id=214&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
+发布编辑藏品: https://yapi.hulai.com/api/open/run_auto_test?id=217&token=59a808a48d7735509c1bb67d4f7b4765f08541efb720a49760b0d4c9c917aa31&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=falseLUN
+轮播图列表：https://yapi.hulai.com/api/open/run_auto_test?id=226&token=da4c8f824ed59f54c01d27830d4059d8dbd92fac12b73c392f712edd462728aa&env_43=测试环境&env_51=测试环境&env_98=测试人员服务器地址&mode=html&email=false&download=false
